@@ -6,7 +6,7 @@ This is a digital replication of the Can't Stop board game developed using Java.
 
 ### Prerequisites
 - Java Development Kit (JDK) installed
-- An IDE like Eclipse or IntelliJ IDEA, or you can use the command line
+- An IDE like Eclipse or VSCode, or you can use the command line
 
 ### Steps to Run from Command Line
 1. Clone the repository:
