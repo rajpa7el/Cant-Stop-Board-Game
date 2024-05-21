@@ -1,12 +1,31 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Can't Stop Board Game
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is a digital replication of the Can't Stop board game developed using Java.
+
+## How to Run
+
+### Prerequisites
+- Java Development Kit (JDK) installed
+- An IDE like Eclipse or IntelliJ IDEA, or you can use the command line
+
+### Steps to Run from Command Line
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/rajpa7el/Cant-Stop-Board-Game.git
+   cd Cant-Stop-Board-Game
+
+2. **Compile the Java files: **
+    ```sh
+    javac -*.java
+
+3. **Run the Game: **
+    ```sh
+    java Main
+
+### Screenshots
+
+- ![Settings Screen](images/img1.png)
+- ![Game Screen](images/img2.png)
+
+
+
